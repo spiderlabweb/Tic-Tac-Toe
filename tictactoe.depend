@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503930115 source:f:\spiderlab\code_blocks projects\tictactoe\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+
